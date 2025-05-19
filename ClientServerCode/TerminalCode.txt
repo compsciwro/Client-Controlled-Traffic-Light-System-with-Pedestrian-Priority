@@ -1,0 +1,4 @@
+sudo apt update
+sudo apt install python3-rpi.gpio
+nano server.py #then the server code is copied and pasted to the nano server.py 
+python3 server.py
