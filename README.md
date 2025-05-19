@@ -1,4 +1,4 @@
-# Raspberry Pi Traffic Light System 
+# 🚦 Raspberry Pi Traffic Light System
 
 This project forms part of my CSC311 Networking coursework and explores practical networking concepts using the Raspberry Pi. It includes a written report and video demonstrations of our setup and findings.
 
