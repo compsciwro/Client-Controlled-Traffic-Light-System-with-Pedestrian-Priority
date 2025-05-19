@@ -4,10 +4,10 @@ This project forms part of my CSC311 Networking coursework and explores practica
 
 ## 📄 Project Overview <br>
 The project involves:<br>
--Setting up a Raspberry Pi as a functional networked device.<br>
--Configuring networking services and tools on the Pi.<br>
--Demonstrating connectivity, communication protocols, and real-world applications.<br>
--Documenting the entire process through a detailed report and video evidence.<br>
+- Setting up a Raspberry Pi as a functional networked device.<br>
+- Configuring networking services and tools on the Pi.<br>
+- Demonstrating connectivity, communication protocols, and real-world applications.<br>
+- Documenting the entire process through a detailed report and video evidence.<br>
 
 ## 📁 Contents<br>
 - **ClientServer Code** - The code behind the Raspberry Pi implementation<br>
@@ -21,11 +21,11 @@ The project involves:<br>
 - LAN/Wi-Fi Configuration<br>
 
 ## 🎯 Learning Objectives<br>
--Gain hands-on experience with Raspberry Pi as a networking device.<br>
--Understand the configuration of services on Linux-based systems.<br>
--Demonstrate real-time communication and networking with embedded systems.<br>
+- Gain hands-on experience with Raspberry Pi as a networking device.<br>
+- Understand the configuration of services on Linux-based systems.<br>
+- Demonstrate real-time communication and networking with embedded systems.<br>
 
-## 👨‍💻 Team Collarboration<br>
+## 👨‍💻 Team Collaboration<br>
 Group 7 – CSC311, 2025, members mentioned in Report<br>
 
 ## 📜 License<br>
